@@ -6,8 +6,7 @@ Lower third graphics. The inscriber is located on computers in Master
 Control, Studio Control, Edit 2 and one computer upstairs in Edit 1. To
 open the Gscribe Inscriber Application double click on the icon with a
 feather on
-it.![](./images/media/image19.png){width="1.1927088801399826in"
-height="0.9127865266841645in"}
+it.![](./images/media/image19.png)
 
 RTX tags what are they?
 =======================
@@ -103,8 +102,7 @@ The Gscribe Inscriber is made up of 7 different programs. For basic
 Inscriber work you will only use 2 of these programs the CG and Quick
 Edit.
 
-![](./images/media/image13.png){width="1.5729166666666667in"
-height="1.0in"}
+![](./images/media/image13.png)
 
 Typing graphics with CG and Quick Edit
 ======================================
@@ -112,13 +110,11 @@ Typing graphics with CG and Quick Edit
 Select template
 ---------------
 
-![](./images/media/image20.png){width="1.6770833333333333in"
-height="0.75in"}
+![](./images/media/image20.png)
 
 · Click on the drop down menu (top middle of screen), or Recall the
 Template
-Number![](./images/media/image14.png){width="1.265625546806649in"
-height="1.3400732720909887in"}
+Number![](./images/media/image14.png)
 
 · Click the "Quick Edit" (Shift F7 or the red box icon with a feather)
 
@@ -132,12 +128,10 @@ side of the screen
 keyboard on the right.
 
 · Press F5 to record the graphic, or if you have a rapid fire keyboard
-press record![](./images/media/image16.png){width="6.5in"
-height="3.6527777777777777in"}
+press record![](./images/media/image16.png)
 
 · To return to the Canvas hit F6 or use mouse to click on the A icon at
-the top.![](./images/media/image6.png){width="1.078125546806649in"
-height="0.8821019247594051in"}
+the top.![](./images/media/image6.png)
 
 Recalling graphics in the Directory
 ===================================
@@ -170,16 +164,14 @@ to see if the inscribers primary mode is set to directory or playlist.
 It should be set to directory if you are trying to read graphics from
 the directory. To change this on the rapid fire keyboard hold down the
 Shift key along with the Config Key.
-![](./images/media/image7.png){width="3.1614588801399823in"
-height="2.76627624671916in"}
+![](./images/media/image7.png)
 
 Using mouse change Primary Mode to Directory and Secondary Mode to
 Playlist.
 
 If you are using a regular keyboard there is a menu hidden under the
 number screen in CG. Click on the drop up menu, Select "Config"
-![](./images/media/image3.png){width="3.2968755468066493in"
-height="3.1360520559930007in"}
+![](./images/media/image3.png)
 
 Using mouse change Primary Mode to Directory and Secondary Mode to
 Playlist.
@@ -199,8 +191,7 @@ Clear the current Playlist
 Import a new Playlist
 
 · Click "File", Import \> Import Text
-File\...![](./images/media/image4.png){width="3.838542213473316in"
-height="2.7525153105861766in"}
+File\...![](./images/media/image4.png)
 
 · Navigate to the N: Drive and select either Public Affairs \> Specific
 Month or Series \> Show name, Select the graphic you want to load.
@@ -209,8 +200,7 @@ Make sure to click on the "Job Creator" radio button at the bottom or
 the graphics wont load and you will have to clear the playlist and
 reimport the graphics.
 
-![](./images/media/image8.png){width="3.5625in"
-height="2.8198939195100614in"}
+![](./images/media/image8.png)
 
 The graphics will load into the CG starting at graphic number 2.
 
@@ -247,20 +237,17 @@ Checking Graphics
 The appearance of the graphics and accuracy are very important to PCN.
 Be on the lookout for text that is squished together.
 
-![](./images/media/image10.png){width="5.739583333333333in"
-height="2.7916666666666665in"}
+![](./images/media/image10.png)
 
 This graphic will need to be [[abbreviated]{.underline}](#q67v184gv28x)
 using the list of approved abbreviations or split into two lines.
 
 To split this into two lines. Go to the Quick Editor
-![](./images/media/image14.png){width="0.8281255468066492in"
-height="0.8708114610673666in"}
+![](./images/media/image14.png)
 
 Cut the text Control X and paste it into the 2L Top
 
-![](./images/media/image5.png){width="6.083333333333333in"
-height="2.3229166666666665in"}
+![](./images/media/image5.png)
 
 Go back to CG
 
@@ -271,8 +258,7 @@ Text options will appear at the bottom left of the screen.
 Click on Text Object Properties Tab,
 
 Click on the "Enable Word Wrapping" radio
-button![](./images/media/image12.png){width="5.166666666666667in"
-height="3.5in"}
+button![](./images/media/image12.png)
 
 The text will now fill two lines. If the text is too long and going over
 the lower third background
@@ -280,14 +266,12 @@ the lower third background
 adjust the aspect ratio to shrink the text. You can click on the arrows
 to lower the aspect ratio gradually.
 
-![](./images/media/image17.png){width="6.755208880139983in"
-height="2.9777055993000876in"}
+![](./images/media/image17.png)
 
 Be on the look out for three line graphics that have three different
 text sizes
 
-![](./images/media/image21.png){width="6.5in"
-height="3.6614588801399823in"}
+![](./images/media/image21.png)
 
 The 2nd and third line of a 3line graphic should be the same size.
 
@@ -295,8 +279,7 @@ to fix this
 
 Select in the Tree "3L Middle" to select the Middle line we want to see
 what the aspect ratio size is for this
-line.![](./images/media/image18.png){width="2.463542213473316in"
-height="1.5520833333333333in"}
+line.![](./images/media/image18.png)
 
 The Aspect Ratio for the middle line is 0.89 so we will need to change
 the bottom line to match the middle line.
@@ -336,8 +319,7 @@ when they are loaded.
 To save a playlist as a scribelist
 
 Go to File \> Save
-As..![](./images/media/image15.png){width="2.8906255468066493in"
-height="2.4058048993875767in"}
+As..![](./images/media/image15.png)
 
 Navigate to N: Scribelist
 
@@ -358,8 +340,7 @@ go to File \> Open
 
 Navigate to N: / Scribelist select the name and date that matches your
 graphic
-sheet.![](./images/media/image11.png){width="1.9427088801399826in"
-height="2.0005271216097986in"}
+sheet.![](./images/media/image11.png)
 
 Keyboard Shortcuts and operation
 ================================
@@ -392,11 +373,9 @@ Layout doesn't look like it used to look. I don't see the media tree
 Move the layout around with the mouse so tree isn't off the screen. You
 can move the Number indicator to the left.
 
-![](./images/media/image1.png){width="6.5in"
-height="3.6527777777777777in"}
+![](./images/media/image1.png)
 
-![](./images/media/image9.png){width="6.5in"
-height="3.6527777777777777in"}
+![](./images/media/image9.png)
 
 Graphics from directory are loading without a background 
 =========================================================
@@ -405,8 +384,7 @@ Relink the templates in the CG Layout
 
 Go to File \> Template Manager \> CG Layouts
 
-![](./images/media/image22.png){width="4.901042213473316in"
-height="3.6654844706911636in"}
+![](./images/media/image22.png)
 
 At the Top Right of the next window is the Path for the Templates Make
 sure it says
@@ -416,8 +394,7 @@ D:\\PCN Graphics\\PCNTemplates071715.templates
 IF not click on Open button navigate to the most updated template file
 in the D drive under PCN Graphics
 
-![](./images/media/image2.png){width="6.61105971128609in"
-height="2.182292213473316in"}
+![](./images/media/image2.png)
 
 Abbreviations
 
