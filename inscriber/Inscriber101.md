@@ -666,11 +666,4 @@ sense not
 
 to.
 
-Credits
 
-I hope this training will help you to learn more about the Inscriber and
-how we work at PCN. We are constantly looking for ways to improve what
-we do. Feel free to ask me (Seth Kline), or Shawn McClain for any help
-or clarification on any of these procedures.
-
-Seth Kline
